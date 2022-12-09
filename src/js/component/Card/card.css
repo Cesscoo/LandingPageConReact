@@ -1,0 +1,12 @@
+
+.myJumbotron{
+    background-color: lightgray;
+    padding: 15px;
+    margin: 30px;
+    
+}
+
+.row{
+    display: flex;
+    margin: 30px;
+}
